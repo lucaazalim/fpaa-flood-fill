@@ -1,6 +1,6 @@
 # Flood Fill Algorithm
 
-This project was developed as an assignment for the Foundations of Algorithm Design and Analysis course at PUC Minas University by:
+This project was developed as an assignment for the Foundations of Algorithm Design and Analysis course at PUC Minas by:
 
 - Arthur Ferreira ([@oarthurfc](https://github.com/oarthurfc))
 - Fernando Ibrahim ([@FernandoIbrahim](https://github.com/FernandoIbrahim))
